@@ -14,11 +14,11 @@ const cartTotal = document.getElementById('cart-total');
 const menuItems = [
     {
         id: 1,
-        title: "Pancakes",
-        category: "breakfast",
-        price: 8.99,
-        img: "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        desc: "Fluffy pancakes served with maple syrup and fresh berries"
+        title: "Buah Potong",
+        category: "Buah",
+        price: "12K",
+        img: "./images/buahPotong.jpg",
+        desc: "Buah potong dengan varian mix sesuai request kalian"
     },
     {
         id: 2,
